@@ -1,0 +1,1 @@
+{"name":"Local: BackTracking","url":"c:\\Users\\apurv\\OneDrive\\Desktop\\CPP Questions\\BackTracking.cpp","tests":[{"id":1782050164885,"input":"1 2 3","output":"1 2 3 \n1 2 \n1 3 \n1 \n2 3 \n2 \n3 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\apurv\\OneDrive\\Desktop\\CPP Questions\\BackTracking.cpp","group":"local","local":true}
